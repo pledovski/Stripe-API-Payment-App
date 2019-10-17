@@ -22,7 +22,7 @@ var style = {
   }
 };
 
-// Sttyle button with bootstrap
+// Style button with bootstrap
 document.querySelector("#payment-form button").classList =
   "btn btn-primary btn-block mt-4";
 
